@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # GHR4_SWD2_S1_PROJECT4
 =======
 # mini-project
@@ -7,3 +8,6 @@
 =======
 # Mini-Project-
 >>>>>>> 527a04cab211a7ea86a35b178dc0ae2cb2b36707
+=======
+# mini-project
+>>>>>>> 17b51287a5cbf3e85160304806fae05a7be92722
